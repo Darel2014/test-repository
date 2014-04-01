@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+C:\MERCURY\Task21\.metadata\.plugins\org.eclipse.jdt.core
+1438358679.index
+2843221110.index
+2590939287.index
+815481740.index
+1284074322.index
+1341924832.index
+345124826.index
